@@ -299,7 +299,8 @@ stoner@Vulnerable:~$
 
 ```Bash
 #sudo -l
-User stoner may run the following commands on Vulnerable:                          (root) NOPASSWD: /NotThisTime/MessinWithYa
+User stoner may run the following commands on Vulnerable:
+(root) NOPASSWD: /NotThisTime/MessinWithYa
 
 #intresting file with permissions
 -r-sr-xr-x 1 root root 227K Feb  8  2016 /usr/bin/find
